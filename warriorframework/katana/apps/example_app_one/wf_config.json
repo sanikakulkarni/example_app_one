@@ -4,6 +4,6 @@
   "name" : "Example App One",
   "developer": "Company-1",
   "description": "This is the first user created app",
-  "url" : "katana/example_app_one/",
-  "app" : [{"name" : "Example App One", "url" : "katana/example_app_one/", "include": "apps.example_app_one.urls"}]
+  "url" : "/katana/example_app_one/",
+  "app" : [{"name" : "Example App One", "url" : "/katana/example_app_one/", "include": "apps.example_app_one.urls"}]
 }
