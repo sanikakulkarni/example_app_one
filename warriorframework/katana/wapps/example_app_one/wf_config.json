@@ -3,5 +3,10 @@
   "color": "tan",
   "developer": "Company-1",
   "description": "This is the first user created app",
-  "app" : {"name" : "Example App One", "url" : "/katana/example_app_one/", "include": "wapps.example_app_one.urls"}
+  "app" : {"name" : "Example App One", "url" : "/katana/example_app_one/", "include": "wapps.example_app_one.urls"},
+  "warrior-compatibility": "warrior-3.1.0::warrior-3.4.0",
+  "warrior-incompatibility": "",
+  "version": "1.0.0",
+  "permissions": "",
+  "availability": ""
 }
